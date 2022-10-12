@@ -80,4 +80,6 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open",
 }
